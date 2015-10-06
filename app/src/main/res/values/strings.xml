@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SharedPreferences_Ex</string>
+
+    <string name="usernameText">Username:</string>
+    <string name="passwordText">Password:</string>
+    <string name="saveInfo">Save Info</string>
+    <string name="showInfo">Show Info</string>
+</resources>
